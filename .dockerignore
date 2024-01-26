@@ -1,0 +1,10 @@
+.nuxt
+node_modules
+.nuxtignore
+.git
+.gitignore
+*.log
+.DS_Store
+README.md
+LICENSE
+yarn.lock
